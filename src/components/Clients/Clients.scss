@@ -1,0 +1,31 @@
+.clients {
+   background-color: #fffbf8;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   width: 100%;
+   padding: 60px 0;
+
+   > h3 {
+      font-family: Fraunces;
+      letter-spacing: 5px;
+      color: #b4b4b4;
+      margin-bottom: 40px;
+      text-align: center;
+   }
+
+   > div {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+
+      @media (min-width: 0px) {
+         flex-direction: column;
+      }
+      @media (min-width: 900px) {
+         flex-direction: row;
+      }
+   }
+}

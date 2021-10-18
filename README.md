@@ -1,6 +1,14 @@
-<h1> Sunnyside agency landing page </h1>
-<h4> Resultado do challenge "Sunnyside agency landing page" do FrontendMentor! <br/>
-Nas animações, utilizei uma das minhas bibliotecas favoritas, a AOS (Animate on Scroll). </h4> 
+![Promina (2)](https://user-images.githubusercontent.com/77179768/137820797-e5d26534-1743-4201-be2d-1778cef311cc.png)
+## 💻 Sobre o projeto
+Site da agência Sunnyside, feito para o desafio "Sunnyside agency landing page" do FrontendMentor!
 
-https://user-images.githubusercontent.com/77179768/127909489-6852a4ab-82ad-4132-8942-7ad1c2f2b0cd.mp4
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- ReactJS
+- SASS
+- AOS (Animate on Scroll Library) https://michalsnik.github.io/aos/
+- AntDesign
+- Google Fonts https://fonts.google.com/
 
